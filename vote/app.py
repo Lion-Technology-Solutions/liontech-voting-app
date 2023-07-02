@@ -8,7 +8,7 @@ import logging
 
 option_a = os.getenv('OPTION_A', "Elvis")
 option_b = os.getenv('OPTION_B', "John")
-option_c = os.getenv('OPTION_B', "Chike")
+option_c = os.getenv('OPTION_C', "Chike")
 
 hostname = socket.gethostname()
 
